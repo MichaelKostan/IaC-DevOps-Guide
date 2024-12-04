@@ -1,4 +1,6 @@
 # Mastering DevOps: Infrastructure as Code in the Cloud
+To be published
+
 
 ## Course Outline
 
