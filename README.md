@@ -1,5 +1,5 @@
 # Mastering DevOps: Infrastructure as Code in the Cloud
-To be published
+To be published in 2025
 
 
 ## Course Outline
